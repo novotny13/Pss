@@ -29,3 +29,4 @@ void loop() {
   delay(3600000);      // čekání 1 hodiny (3600000 milisekund)
 }
 ```
+použity byli tužky jelikož momentálně nemám k požití cigarety
